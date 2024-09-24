@@ -12,7 +12,7 @@ Incialmente foi desenvolvido pensando em ser de código fechado. Por isso, os co
 ### Tecnologias e implementação
 A interface nativa foi escolhida pensando na experiência do usuário e melhor desempenho ao usar o armazenamento local
 
-A lista completa de tecnologias pode ser vista aqui [[TECNOLOGIAS]]
+A lista completa de tecnologias pode ser vista aqui [[[TECNOLOGIAS]]](https://github.com/Gym-Progress-Tracker/Android/blob/main/docs/TECNOLOGIAS.md)
 Lá é explicado o **motivo** da escolha de cada tecnologia
 #### Android
 1. Kotlin
@@ -37,7 +37,7 @@ Lá é explicado o **motivo** da escolha de cada tecnologia
 
 ## 3. Colaboração
 ### Como outros desenvolvedores podem contribuir
-Deve-se ler o **guia de como contribuir** antes de qualquer coisa [[COLABORACAO]]
+Deve-se ler o **guia de como contribuir** antes de qualquer coisa [[[COLABORACAO]]](https://github.com/Gym-Progress-Tracker/Android/blob/main/docs/COLABORACAO.md)
 Nele tem todo o passo a passo de como contribuir.
 Obrigado por considerar contribuir com este projeto!
 
@@ -49,7 +49,7 @@ Obrigado por considerar contribuir com este projeto!
 - Issues
 
 ## 4. Documentação
-1. Visão geral [[VISAO_GERAL]]
-2. Tecnologias [[TECNOLOGIAS]]
-3. Colaboração [[COLABORACAO]]
-4. Licença [[LICENSE]]
+1. Visão geral [[[VISAO]]](https://github.com/Gym-Progress-Tracker/Android/blob/main/docs/VISAO_GERAL.md)
+2. Tecnologias [[[TECNOLOGIAS]]](https://github.com/Gym-Progress-Tracker/Android/blob/main/docs/TECNOLOGIAS.md)
+3. Colaboração [[[COLABORACAO]]](https://github.com/Gym-Progress-Tracker/Android/blob/main/docs/COLABORACAO.md)
+4. Licença [[[LICENSE]]](https://github.com/Gym-Progress-Tracker/Android/blob/main/LICENSE.md)
