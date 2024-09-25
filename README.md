@@ -12,7 +12,7 @@ Incialmente foi desenvolvido pensando em ser de código fechado. Por isso, os co
 ### Tecnologias e implementação
 A interface nativa foi escolhida pensando na experiência do usuário e melhor desempenho ao usar o armazenamento local
 
-A lista completa de tecnologias pode ser vista aqui [[TECNOLOGIAS]](https://github.com/Gym-Progress-Tracker/Android/blob/main/docs/TECNOLOGIAS.md)
+A lista completa de tecnologias pode ser vista aqui [TECNOLOGIAS](https://github.com/Gym-Progress-Tracker/Android/blob/main/docs/TECNOLOGIAS.md)
 Lá é explicado o **motivo** da escolha de cada tecnologia
 #### Android
 1. Kotlin
